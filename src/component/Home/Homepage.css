@@ -1,0 +1,14 @@
+.lower-nav-row{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.middle-comp{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    padding-left: 5px;
+    padding-right: 5px;
+}
